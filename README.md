@@ -77,19 +77,6 @@ built Arabic-first with full RTL support.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shady-Akhrass&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shady-Akhrass&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Akhrass&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="Streak"/>
-</p>
-
----
-
 ## Get in Touch
 
 - 💼 LinkedIn — [shady-al-akhras](https://www.linkedin.com/in/shady-al-akhras-476a2637a/)
