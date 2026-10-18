@@ -12,7 +12,6 @@
   <a href="https://github.com/Shady-Akhrass">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Shady-Akhrass&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
